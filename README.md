@@ -2,10 +2,11 @@
 A simple clone of the cat command in C for learning purposes
 
 # Building
-Run ./build.sh
+Run `build.sh`
 
 # Running
-Run ./build/cat path/to/file1 path/to/file/2
+Run `./build/cat path/to/file1 path/to/file/2`
+
 Example : `./build/cat tests/a tests/b tests/c`
 
 # Features
